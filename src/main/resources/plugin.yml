@@ -1,0 +1,14 @@
+name: LuckyBlocks
+main: net.xephea.luckyblocks.LuckyBlocks
+prefix: &6LuckyBlocks
+version: 0.4
+author: Olivia Calvert
+website: www.calvertplusplus.com
+api-version: 1.13
+
+depend: [ProtocolLib]
+
+commands:
+    luckyblocks:
+        description: Lucky Blocks main command
+        usage: /<command> <args>
